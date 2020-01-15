@@ -18,3 +18,7 @@ adding boxes area in the home page
 > these changes were made on master before merging about-layout
 
 creating about page with the layout including header, footer, and the newsletters area
+
+> these changes were made on master before merging about-main
+
+adding the main area into about page
