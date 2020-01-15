@@ -135,6 +135,13 @@ header a:hover{
   width:90px;
 }
 
+/* Sidebar */
+aside#sidebar{
+  float:right;
+  width:30%;
+  margin-top:10px;
+}
+
 /* Main-col */
 article#main-col{
   float:left;
@@ -158,6 +165,11 @@ footer{
   #newsletter form,
   #boxes .box,
   article#main-col,
+  aside#sidebar{
+    float:none;
+    text-align:center;
+    width:100%;
+  }
   header{
     padding-bottom:20px;
   }
