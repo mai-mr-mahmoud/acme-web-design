@@ -7,6 +7,7 @@
 | __Home Boxes__ | As a Web Developer I can navigate to Home page with Boxes area presented showing the capabilities | Home page is filled in with capabilities in the boxes area | css used for boxes |
 | __About Layout__ | As a Web Developer I can navigate to the about page with the layout setup including Header, Footer and Newsletters subscription area | An empty project with header, footer and newsletters subscription area | using same css objects |
 | __About Main__ | As a Web Developer I can navigate to About page with the main area presented | About page filled in with Main Area | css used of the main area in the about page |
+| __About_Sidebar__ | As a Web Developer I can navigate to About page with the side bar presented | About page filled in with the side bar | css used for the side bar in about page |
 
 ---
 ---

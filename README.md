@@ -22,3 +22,7 @@ creating about page with the layout including header, footer, and the newsletter
 > these changes were made on master before merging about-main
 
 adding the main area into about page
+
+> these changes were made on master before merging about-sidebar
+
+adding the Side Bar into about page
