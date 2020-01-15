@@ -26,6 +26,14 @@ ul{
   color:#ffffff;
 }
 
+.dark{
+  padding:15px;
+  background:#35424a;
+  color:#ffffff;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
 /* Header **/
 header{
   background:#35424a;
@@ -127,6 +135,12 @@ header a:hover{
   width:90px;
 }
 
+/* Main-col */
+article#main-col{
+  float:left;
+  width:65%;
+}
+
 footer{
   padding:20px;
   margin-top:20px;
@@ -143,7 +157,7 @@ footer{
   #newsletter h1,
   #newsletter form,
   #boxes .box,
-  
+  article#main-col,
   header{
     padding-bottom:20px;
   }
