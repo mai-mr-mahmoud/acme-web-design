@@ -4,7 +4,13 @@ acme-web-design is website for a web design company that has three pages: Home, 
 
 
 > these changes were made on master before merging home-layout
+
 creating home page with the layout including header, footer, and the newsletters area.
 
 > these changes were made on master before merging home-showcase
+
 adding showcase area in the home page
+
+> these changes were made on master before merging home-boxes
+
+adding boxes area in the home page

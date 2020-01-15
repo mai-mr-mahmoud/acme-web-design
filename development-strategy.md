@@ -4,6 +4,7 @@
 | --- | --- | --- | --- |
 | __Home Layout__ | As a Web Developer I can navigate to an empty website with the layout setup in the home page including Header, Footer and Newsletters subscription area | An empty project with header, footer and newsletters subscription area | css used for header, footer, and newsletters area |
 | __Home Showcase__ | As a Web Developer I can navigate to Home page with Showcase area presented | Home page is filled in with Showcase Area | css used for showcase |
+| __Home Boxes__ | As a Web Developer I can navigate to Home page with Boxes area presented showing the capabilities | Home page is filled in with capabilities in the boxes area | css used for boxes |
 
 ---
 ---
