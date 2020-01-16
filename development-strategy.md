@@ -10,7 +10,7 @@
 | __About_Sidebar__ | As a Web Developer I can navigate to About page with the side bar presented | About page filled in with the side bar | css used for the side bar in about page |
 | __Services Layout__ | As a Web Developer I can navigate to Services page with the layout setup including Header, Footer and Newsletters subscription area | An empty project with header, footer and newsletters subscription area | using same css objects |
 | __Services ServiceList__ | As a Web Developer I can navigate to Services page with the Service List area presented | Services page filled in with Service List Area | css used for Service List area in the Services page |
-
+| __Services Quotation__ | As a Web Developer I can navigate to Services page with the Quotation side bar presented | Services page filled in with Quotation sidebar | css used for Quotation side bar in the Services page |
 ---
 ---
 

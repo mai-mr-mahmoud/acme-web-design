@@ -34,3 +34,7 @@ creating services page with layout including header, footer, and the newsletters
 > these changes were made on master before merging services-service-list
 
 adding service list area in the services page
+
+> these changes were made on master before merging services-quotation
+
+adding quotation sidebar area in the services page
