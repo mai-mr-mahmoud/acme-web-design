@@ -30,3 +30,7 @@ adding the Side Bar into about page
 > these changes were made on master before merging services-layout
 
 creating services page with layout including header, footer, and the newsletters area
+
+> these changes were made on master before merging services-service-list
+
+adding service list area in the services page
